@@ -6,7 +6,7 @@ A machine learning model for predicting taxi trip durations using geospatial, te
 - **Modeling**: Ridge regression with regularization for better generalization.
 - **Optimization**: Log transformation and outlier filtering for improved predictions.
 
-##📌 **Next Steps:**
+## 📌 **Next Steps:**
 Exploring Gradient Boosting and integrating external factors like traffic and weather.
 
 ## 📂 Files
